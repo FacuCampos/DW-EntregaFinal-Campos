@@ -76,7 +76,8 @@
     background-color: map-get($map: $paleta, $key: 'secundario');
     position: fixed;
     bottom: 0;
-    button{
+    a{
+        @include flex(row, center, center);
         width: 100%;
         height: 100%;
         border: none;

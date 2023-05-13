@@ -63,8 +63,7 @@ main{
 .quienes-somos{
     @include flex (column, start, center);
     p{
-        text-align: justify;
-        text-justify: inter-word;
+        text-align: center;
         width: 100%;
     }
     div{
@@ -474,7 +473,7 @@ main{
         @include flex (row, start, start);
         width: 100%;
         p{
-            text-justify: initial;
+            text-align: end;
             width: 50%;
             flex: 1;
         }

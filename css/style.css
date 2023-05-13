@@ -88,8 +88,7 @@ main {
   align-items: center;
 }
 .quienes-somos p {
-  text-align: justify;
-  text-justify: inter-word;
+  text-align: center;
   width: 100%;
 }
 .quienes-somos div {
@@ -495,7 +494,7 @@ main {
     width: 100%;
   }
   .quienes-somos p {
-    text-justify: initial;
+    text-align: end;
     width: 50%;
     flex: 1;
   }

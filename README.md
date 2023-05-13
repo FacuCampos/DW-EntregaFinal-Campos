@@ -24,14 +24,33 @@ Luego viene el navegador con las 5 páginas accesibles.
 Al final de cada página hay un footer con los links a las redes sociales, a las cuales se puede acceder presionandolos, el número de teléfono y el mail de contacto.
 
 Las 5 páginas son:
-- Inicio (Index): Aquí se encuentran los productos destacados organizados usando un grid y un carrousel de fotos con lo que ofrece el local, éste diseño lo obtuve de Bootstrap.
+- **Inicio (Index):** Aquí se encuentran los productos destacados organizados usando un grid y un carrousel de fotos con lo que ofrece el local, éste diseño lo obtuve de Bootstrap.
 
-- Nosotros: La informacion del local junto a una foto. Mas abajo la dirección con un mapa. Todavia no tiene dirección asi que le puse una genérica. Para esto use flexbox en columna y filas dependiendo de si es para movil o desktop.
+- **Nosotros:** La informacion del local junto a una foto. Mas abajo la dirección con un mapa. Todavia no tiene dirección asi que le puse una genérica. Para esto use flexbox en columna y filas dependiendo de si es para movil o desktop.
 
-- Tienda: El catálogo completo de los productos, con un filtro y un boton de "ver mas", que por el momento dirige a la página de error. Utilice grid para distribuir esta pantalla.
+- **Tienda:** El catálogo completo de los productos, con un filtro y un boton de "ver mas", que por el momento dirige a la página de error. Utilice grid para distribuir esta pantalla.
 
-- Contacto: Una pantalla con la información de contacto (emails, redes sociales, dirección), y un espacio para dejar una consulta. El boton de enviar redirecciona a error 404. 
+- **Contacto:** Una pantalla con la información de contacto (emails, redes sociales, dirección), y un espacio para dejar una consulta. El boton de enviar redirecciona a error 404. 
 
-- Como pagar: Aquí se muestran los medios de pago posibles. Las imágenes se distribuyeron usando grids.
+- **Como pagar:** Aquí se muestran los medios de pago posibles. Las imágenes se distribuyeron usando grids.
 
 Todas las páginas tienen su version de móvil, en la cual el navegador se convierte en un menú desplegable. En el caso de la tienda lo mismo ocurre con el filtro. Tambien se les agrega un pequeño menu inferior con las opciones de ingresar, buscar y carrito, que todavia no funcionan.
+
+## Wireframes
+
+
+## Entregas previas
+Dejo los links a los repositorios y github pages anteriores para que se vea como fue cambiando el proyecto a lo largo del curso.
+
+### Pre entrega 1 
+(Esta entega no se realizó por medio de github pero decidí subirla de todas formas)
+ - **Repositorio:** https://github.com/FacuCampos/PreEntrega1Campos
+ - **Github pages:** https://facucampos.github.io/PreEntrega1Campos
+
+### Pre entrega 2
+ - **Repositorio:** https://github.com/FacuCampos/PreEntrega2Campos
+ - **Github pages:** https://facucampos.github.io/PreEntrega2Campos
+
+### Pre Entrega 3
+ - **Repositorio:** https://github.com/FacuCampos/preEntrega3Campos
+ - **Github pages:** https://facucampos.github.io/preEntrega3Campos

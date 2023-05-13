@@ -16,13 +16,14 @@
 ### Diseño de imágenes
 - Adobe Ilustrator
 
-## Arkham Store - Tienda de juegos de mesa y rol
-
-Diseño de una tienda online de juegos de mesa con 5 páginas + una de error 404.
-
+## Links
 - **Repositorio:** https://github.com/FacuCampos/EntregaFinalCampos
 - **Github pages:** https://facucampos.github.io/EntregaFinalCampos/
 - **Dominio:** http://juegosarkham.epizy.com/
+
+## Arkham Store - Tienda de juegos de mesa y rol
+
+Diseño de una tienda online de juegos de mesa con 5 páginas + una de error 404.
 
 ### Contenedor de la parte superior
 Todas las páginas tienen un contenedor superior con el nombre del local con su logo, la barra de búsqueda y los botones de ingreso y carrito. Aquí solo tienen funcionalidad el logo, el cual te redirige al inicio y el botón de ingresar que dirige a la página de error.

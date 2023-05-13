@@ -37,7 +37,20 @@ Las 5 páginas son:
 Todas las páginas tienen su version de móvil, en la cual el navegador se convierte en un menú desplegable. En el caso de la tienda lo mismo ocurre con el filtro. Tambien se les agrega un pequeño menu inferior con las opciones de ingresar, buscar y carrito, que todavia no funcionan.
 
 ## Wireframes
+Para los wireframes aproveché la prueba gratis de la página wireframe.cc.
+### Desktop
+![1-Inicio-Escritorio](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/e6ef5903-b8c1-4ce5-b18d-b8ea1ca0d946)
+![2-Nosotros-Escritorio](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/f22eaa63-bda7-4879-acfc-03f41616ecb9)
+![3-Tienda-Escritorio](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/2eceb864-eb73-4cc1-99d6-af3108263905)
+![4-Contacto-Escritorio](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/5736d616-e842-4bab-a97a-294e488b5cd1)
+![5-Como-pagar-Escritorio](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/db9cac46-aa03-48e3-8eb8-cc48c66710de)
 
+### Mobile
+![6-Inicio-Celular](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/519a0bd6-10e9-4012-bc70-441902fe45ec)
+![7-Nosotros-Celular](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/bcfd4806-c82b-487b-a1dd-3552a77b3310)
+![8-Tienda-Celular](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/76917be1-ec1a-4326-94c0-5c2d11f0cd90)
+![9-Contacto-Celular](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/6a9af3c6-73e8-47c5-b5df-494574c8c8cb)
+![10-Como-pagar-Celular](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/fa4c62d6-297b-4fc2-96ad-715c992d1c90)
 
 ## Entregas previas
 Dejo los links a los repositorios y github pages anteriores para que se vea como fue cambiando el proyecto a lo largo del curso.

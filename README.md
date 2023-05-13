@@ -1,6 +1,19 @@
-# ArkhamStoreTienda
+# EntergaFinalCampos
 
-Tienda de juegos - Arkham Store
+## Herramientas
+### Lenguajes
+- HTML 5
+- CSS 3
+
+### Frameworks
+- Bootstrap
+- Node.JS
+- Sass
+
+### Software de control de versiones
+- git
+
+## Arkham Store - Tienda de juegos de mesa y rol
 
 Diseño de una tienda online de juegos de mesa con 5 páginas + una de error 404.
 

@@ -1,5 +1,4 @@
 @import "fonts.css";
-@import 'animate.css';
 * {
   box-sizing: border-box;
   font-family: "Mukta", sans-serif;
@@ -632,7 +631,7 @@ main {
 
 .lupa {
   width: 70px;
-  height: 38px;
+  height: 39px;
   border-top-right-radius: 20px;
   border-bottom-right-radius: 20px;
   border: none;
@@ -902,6 +901,9 @@ main {
   position: absolute;
   bottom: 0;
   left: 0;
+}
+.pie span {
+  font-weight: 700;
 }
 
 .redesFooter {

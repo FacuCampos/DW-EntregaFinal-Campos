@@ -71,7 +71,7 @@ main{
         width: 90%;
         background-color: map-get($map: $paleta, $key: 'acento');
         box-shadow: $sombra;
-        padding: $pMedium;
+        padding: $pSmall;
         img{
             background-color: map-get($map: $paleta, $key: 'cajas');
             width: 100%;
@@ -480,6 +480,7 @@ main{
         div{
             margin-top: 0;
             margin-left: 5%;
+            padding: $pMedium;
             width: 50%;
             img{
                 width: 100%;

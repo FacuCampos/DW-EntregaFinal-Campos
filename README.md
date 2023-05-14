@@ -17,8 +17,8 @@
 - Adobe Ilustrator
 
 ## Links
-- **Repositorio:** https://github.com/FacuCampos/EntregaFinalCampos
-- **Github pages:** https://facucampos.github.io/EntregaFinalCampos/
+- **Repositorio:** https://github.com/FacuCampos/PF-Campos
+- **Github pages:** https://facucampos.github.io/PF-Campos
 - **Dominio:** http://juegosarkham.epizy.com/
 
 ## Arkham Store - Tienda de juegos de mesa y rol
@@ -58,18 +58,18 @@ Las 5 páginas son:
 ## Wireframes
 Dejo los wireframes con los cuales inicié este proyecto, para hacerlos aproveché la prueba gratis de la página wireframe.cc.
 ### Desktop
-![1-Inicio-Escritorio](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/fb20511f-7d45-4a86-8b59-791b6ff5cdd2)
-![2-Nosotros-Escritorio](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/8eec1dfa-ca2d-403f-bec1-5f21e9c1fdc6)
-![3-Tienda-Escritorio](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/10c713bc-6b31-4b78-a63f-b8ddbede2319)
-![4-Contacto-Escritorio](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/7957f3fc-5b5e-44fc-bb3f-1ffe4b9ddf59)
-![5-Como-pagar-Escritorio](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/a4334a1f-c877-4932-b662-d47a0c7bdc8a)
+![1-Inicio-Escritorio](https://github.com/FacuCampos/PF-Campos/assets/129131205/fb20511f-7d45-4a86-8b59-791b6ff5cdd2)
+![2-Nosotros-Escritorio](https://github.com/FacuCampos/PF-Campos/assets/129131205/8eec1dfa-ca2d-403f-bec1-5f21e9c1fdc6)
+![3-Tienda-Escritorio](https://github.com/FacuCampos/PF-Campos/assets/129131205/10c713bc-6b31-4b78-a63f-b8ddbede2319)
+![4-Contacto-Escritorio](https://github.com/FacuCampos/PF-Campos/assets/129131205/7957f3fc-5b5e-44fc-bb3f-1ffe4b9ddf59)
+![5-Como-pagar-Escritorio](https://github.com/FacuCampos/PF-Campos/assets/129131205/a4334a1f-c877-4932-b662-d47a0c7bdc8a)
 
 ### Mobile
-![6-Inicio-Celular](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/0a2b1156-e2a1-47a2-b426-26069f41588f)
-![7-Nosotros-Celular](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/944611f8-07cf-48a6-81c1-d18b8b3ac74e)
-![8-Tienda-Celular](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/e7ae61e3-e0f2-4920-9e53-f51450822d1e)
-![9-Contacto-Celular](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/3cb8076e-51a6-46f1-8070-5159c0b34810)
-![10-Como-pagar-Celular](https://github.com/FacuCampos/EntregaFinalCampos/assets/129131205/bf480d83-b147-47d5-a7cc-5a42c14bc094)
+![6-Inicio-Celular](https://github.com/FacuCampos/PF-Campos/assets/129131205/0a2b1156-e2a1-47a2-b426-26069f41588f)
+![7-Nosotros-Celular](https://github.com/FacuCampos/PF-Campos/assets/129131205/944611f8-07cf-48a6-81c1-d18b8b3ac74e)
+![8-Tienda-Celular](https://github.com/FacuCampos/PF-Campos/assets/129131205/e7ae61e3-e0f2-4920-9e53-f51450822d1e)
+![9-Contacto-Celular](https://github.com/FacuCampos/PF-Campos/assets/129131205/3cb8076e-51a6-46f1-8070-5159c0b34810)
+![10-Como-pagar-Celular](https://github.com/FacuCampos/PF-Campos/assets/129131205/bf480d83-b147-47d5-a7cc-5a42c14bc094)
 
 ## Entregas previas
 Dejo los links a los repositorios y github pages anteriores para que se vea como fue cambiando el proyecto a lo largo del curso.

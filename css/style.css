@@ -112,7 +112,7 @@ main {
 .filtro-moviles {
   background-color: #bebeaf;
   position: sticky;
-  top: 41px;
+  top: 50px;
   margin-bottom: 30px;
   box-shadow: 0 4px 8px 0 rgba(30, 30, 30, 0.2), 0 6px 20px 0 rgba(30, 30, 30, 0.2);
   z-index: 50;
@@ -685,7 +685,7 @@ main {
 .navegador {
   padding: 0;
   position: sticky;
-  top: 0;
+  top: -1px;
   background-color: #eb5e28;
   z-index: 100;
 }
@@ -816,6 +816,7 @@ main {
   padding: 20px;
   border-radius: 8px;
   text-align: center;
+  z-index: 0;
 }
 .producto img {
   width: 200px;

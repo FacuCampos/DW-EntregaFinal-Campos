@@ -17,8 +17,8 @@
 - Adobe Ilustrator
 
 ## Links
-- **Repositorio:** https://github.com/FacuCampos/PF-Campos
-- **Github pages:** https://facucampos.github.io/PF-Campos
+- **Repositorio:** https://github.com/FacuCampos/DW-PF-Campos
+- **Github pages:** https://facucampos.github.io/DW-PF-Campos
 - **Dominio:** http://juegosarkham.epizy.com/
 
 ## Arkham Store - Tienda de juegos de mesa y rol
@@ -76,13 +76,13 @@ Dejo los links a los repositorios y github pages anteriores para que se vea como
 
 ### Pre entrega 1 
 (Esta entega no se realizó por medio de github pero decidí subirla de todas formas)
- - **Repositorio:** https://github.com/FacuCampos/PreEntrega1Campos
- - **Github pages:** https://facucampos.github.io/PreEntrega1Campos
+ - **Repositorio:** https://github.com/FacuCampos/DW-PreEntrega1Campos
+ - **Github pages:** https://facucampos.github.io/DW-PreEntrega1Campos/
 
 ### Pre entrega 2
- - **Repositorio:** https://github.com/FacuCampos/PreEntrega2Campos
- - **Github pages:** https://facucampos.github.io/PreEntrega2Campos
+ - **Repositorio:** https://github.com/FacuCampos/DW-PreEntrega2Campos
+ - **Github pages:** https://facucampos.github.io/DW-PreEntrega2Campos
 
 ### Pre Entrega 3
- - **Repositorio:** https://github.com/FacuCampos/preEntrega3Campos
- - **Github pages:** https://facucampos.github.io/preEntrega3Campos
+ - **Repositorio:** https://github.com/FacuCampos/DW-preEntrega3Campos
+ - **Github pages:** https://facucampos.github.io/DW-preEntrega3Campos

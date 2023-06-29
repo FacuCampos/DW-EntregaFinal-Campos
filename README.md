@@ -19,7 +19,6 @@
 ## Links
 - **Repositorio:** https://github.com/FacuCampos/DW-PF-Campos
 - **Github pages:** https://facucampos.github.io/DW-PF-Campos
-- **Dominio:** http://juegosarkham.epizy.com/
 
 ## Arkham Store - Tienda de juegos de mesa y rol
 
